@@ -1,0 +1,1 @@
+import{aD as t,j as e}from"./main.js";import{a}from"./MetaData-476729d9.js";import"./Typography-c1919a6b.js";const l=({formId:r})=>{const s=a(o=>t(o,r));return e.jsx(e.Fragment,{children:e.jsx("pre",{className:"yd-debug-info",children:e.jsx("div",{className:"yd-debug-rowId",children:JSON.stringify(s.values,null,2)})})})};export{l as default};

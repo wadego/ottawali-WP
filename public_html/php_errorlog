@@ -1,0 +1,303 @@
+[14-Sep-2023 14:28:43 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/customer/www/ottawali.live/public_html/wp-content/plugins/code-snippets/php/front-end/class-frontend.php(248) : eval()'d code on line 23
+[14-Sep-2023 14:37:16 UTC] PHP Warning:  Use of undefined constant user_email - assumed 'user_email' (this will throw an Error in a future version of PHP) in /home/customer/www/ottawali.live/public_html/wp-content/plugins/code-snippets/php/front-end/class-frontend.php(248) : eval()'d code on line 21
+[14-Sep-2023 14:38:52 UTC] PHP Parse error:  syntax error, unexpected '$stmt' (T_VARIABLE) in /home/customer/www/ottawali.live/public_html/wp-content/plugins/code-snippets/php/front-end/class-frontend.php(248) : eval()'d code on line 21
+[14-Sep-2023 14:42:32 UTC] PHP Parse error:  syntax error, unexpected '$stmt' (T_VARIABLE) in /home/customer/www/ottawali.live/public_html/wp-content/plugins/code-snippets/php/front-end/class-frontend.php(248) : eval()'d code on line 21
+[14-Sep-2023 14:48:21 UTC] PHP Warning:  Use of undefined constant length - assumed 'length' (this will throw an Error in a future version of PHP) in /home/customer/www/ottawali.live/public_html/wp-content/plugins/code-snippets/php/front-end/class-frontend.php(248) : eval()'d code on line 26
+[14-Sep-2023 21:53:59 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/customer/www/ottawali.live/public_html/wp-content/plugins/code-snippets/php/front-end/class-frontend.php(248) : eval()'d code on line 56
+[18-Sep-2023 16:51:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/customer/www/ottawali.live/public_html/wp-content/plugins/code-snippets/php/front-end/class-frontend.php(248) : eval()'d code:64
+Stack trace:
+#0 /home/customer/www/ottawali.live/public_html/wp-content/plugins/code-snippets/php/front-end/class-frontend.php(248): eval()
+#1 /home/customer/www/ottawali.live/public_html/wp-content/plugins/code-snippets/php/front-end/class-frontend.php(311): Code_Snippets\Frontend->evaluate_shortcode_content(Object(Code_Snippets\Snippet), Array)
+#2 /home/customer/www/ottawali.live/public_html/wp-includes/shortcodes.php(395): Code_Snippets\Frontend->render_content_shortcode(Array, '', 'code_snippet')
+#3 [internal function]: do_shortcode_tag(Array)
+#4 /home/customer/www/ottawali.live/public_html/wp-includes/shortcodes.php(235): preg_replace_callback('/\\[(\\[?)(code_s...', 'do_shortcode_ta...', '[code_snippet i...')
+#5 /home/customer/www/ottawali.live/public_html/wp-content/plugins/elementor/includes/widgets/shortcode.php in /home/customer/www/ottawali.live/public_html/wp-content/plugins/code-snippets/php/front-end/class-frontend.php(248) : eval()'d code on line 64
+[18-Sep-2023 16:53:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/customer/www/ottawali.live/public_html/wp-content/plugins/code-snippets/php/front-end/class-frontend.php(248) : eval()'d code:68
+Stack trace:
+#0 /home/customer/www/ottawali.live/public_html/wp-content/plugins/code-snippets/php/front-end/class-frontend.php(248): eval()
+#1 /home/customer/www/ottawali.live/public_html/wp-content/plugins/code-snippets/php/front-end/class-frontend.php(311): Code_Snippets\Frontend->evaluate_shortcode_content(Object(Code_Snippets\Snippet), Array)
+#2 /home/customer/www/ottawali.live/public_html/wp-includes/shortcodes.php(395): Code_Snippets\Frontend->render_content_shortcode(Array, '', 'code_snippet')
+#3 [internal function]: do_shortcode_tag(Array)
+#4 /home/customer/www/ottawali.live/public_html/wp-includes/shortcodes.php(235): preg_replace_callback('/\\[(\\[?)(code_s...', 'do_shortcode_ta...', '[code_snippet i...')
+#5 /home/customer/www/ottawali.live/public_html/wp-content/plugins/elementor/includes/widgets/shortcode.php in /home/customer/www/ottawali.live/public_html/wp-content/plugins/code-snippets/php/front-end/class-frontend.php(248) : eval()'d code on line 68
+[18-Sep-2023 16:54:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/customer/www/ottawali.live/public_html/wp-content/plugins/code-snippets/php/front-end/class-frontend.php(248) : eval()'d code:68
+Stack trace:
+#0 /home/customer/www/ottawali.live/public_html/wp-content/plugins/code-snippets/php/front-end/class-frontend.php(248): eval()
+#1 /home/customer/www/ottawali.live/public_html/wp-content/plugins/code-snippets/php/front-end/class-frontend.php(311): Code_Snippets\Frontend->evaluate_shortcode_content(Object(Code_Snippets\Snippet), Array)
+#2 /home/customer/www/ottawali.live/public_html/wp-includes/shortcodes.php(395): Code_Snippets\Frontend->render_content_shortcode(Array, '', 'code_snippet')
+#3 [internal function]: do_shortcode_tag(Array)
+#4 /home/customer/www/ottawali.live/public_html/wp-includes/shortcodes.php(235): preg_replace_callback('/\\[(\\[?)(code_s...', 'do_shortcode_ta...', '[code_snippet i...')
+#5 /home/customer/www/ottawali.live/public_html/wp-content/plugins/elementor/includes/widgets/shortcode.php in /home/customer/www/ottawali.live/public_html/wp-content/plugins/code-snippets/php/front-end/class-frontend.php(248) : eval()'d code on line 68
+[18-Sep-2023 19:32:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/customer/www/ottawali.live/public_html/wp-content/plugins/code-snippets/php/front-end/class-frontend.php(248) : eval()'d code:68
+Stack trace:
+#0 /home/customer/www/ottawali.live/public_html/wp-content/plugins/code-snippets/php/front-end/class-frontend.php(248): eval()
+#1 /home/customer/www/ottawali.live/public_html/wp-content/plugins/code-snippets/php/front-end/class-frontend.php(311): Code_Snippets\Frontend->evaluate_shortcode_content(Object(Code_Snippets\Snippet), Array)
+#2 /home/customer/www/ottawali.live/public_html/wp-includes/shortcodes.php(395): Code_Snippets\Frontend->render_content_shortcode(Array, '', 'code_snippet')
+#3 [internal function]: do_shortcode_tag(Array)
+#4 /home/customer/www/ottawali.live/public_html/wp-includes/shortcodes.php(235): preg_replace_callback('/\\[(\\[?)(code_s...', 'do_shortcode_ta...', '[code_snippet i...')
+#5 /home/customer/www/ottawali.live/public_html/wp-content/plugins/elementor/includes/widgets/shortcode.php in /home/customer/www/ottawali.live/public_html/wp-content/plugins/code-snippets/php/front-end/class-frontend.php(248) : eval()'d code on line 68
+[18-Sep-2023 19:36:30 UTC] PHP Fatal error:  Uncaught Error: Undefined class constant 'PARAM_XXXX' in /home/customer/www/ottawali.live/public_html/wp-content/plugins/code-snippets/php/front-end/class-frontend.php(248) : eval()'d code:64
+Stack trace:
+#0 /home/customer/www/ottawali.live/public_html/wp-content/plugins/code-snippets/php/front-end/class-frontend.php(248): eval()
+#1 /home/customer/www/ottawali.live/public_html/wp-content/plugins/code-snippets/php/front-end/class-frontend.php(311): Code_Snippets\Frontend->evaluate_shortcode_content(Object(Code_Snippets\Snippet), Array)
+#2 /home/customer/www/ottawali.live/public_html/wp-includes/shortcodes.php(395): Code_Snippets\Frontend->render_content_shortcode(Array, '', 'code_snippet')
+#3 [internal function]: do_shortcode_tag(Array)
+#4 /home/customer/www/ottawali.live/public_html/wp-includes/shortcodes.php(235): preg_replace_callback('/\\[(\\[?)(code_s...', 'do_shortcode_ta...', '[code_snippet i...')
+#5 /home/customer/www/ottawali.live/public_html/wp-content/plugins/elementor/includes/widgets/shortcode.php in /home/customer/www/ottawali.live/public_html/wp-content/plugins/code-snippets/php/front-end/class-frontend.php(248) : eval()'d code on line 64
+[18-Sep-2023 19:39:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/customer/www/ottawali.live/public_html/wp-content/plugins/code-snippets/php/front-end/class-frontend.php(248) : eval()'d code:99
+Stack trace:
+#0 /home/customer/www/ottawali.live/public_html/wp-content/plugins/code-snippets/php/front-end/class-frontend.php(248): eval()
+#1 /home/customer/www/ottawali.live/public_html/wp-content/plugins/code-snippets/php/front-end/class-frontend.php(311): Code_Snippets\Frontend->evaluate_shortcode_content(Object(Code_Snippets\Snippet), Array)
+#2 /home/customer/www/ottawali.live/public_html/wp-includes/shortcodes.php(395): Code_Snippets\Frontend->render_content_shortcode(Array, '', 'code_snippet')
+#3 [internal function]: do_shortcode_tag(Array)
+#4 /home/customer/www/ottawali.live/public_html/wp-includes/shortcodes.php(235): preg_replace_callback('/\\[(\\[?)(code_s...', 'do_shortcode_ta...', '[code_snippet i...')
+#5 /home/customer/www/ottawali.live/public_html/wp-content/plugins/elementor/includes/widgets/shortcode.php in /home/customer/www/ottawali.live/public_html/wp-content/plugins/code-snippets/php/front-end/class-frontend.php(248) : eval()'d code on line 99
+[18-Sep-2023 19:39:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/customer/www/ottawali.live/public_html/wp-content/plugins/code-snippets/php/front-end/class-frontend.php(248) : eval()'d code:99
+Stack trace:
+#0 /home/customer/www/ottawali.live/public_html/wp-content/plugins/code-snippets/php/front-end/class-frontend.php(248): eval()
+#1 /home/customer/www/ottawali.live/public_html/wp-content/plugins/code-snippets/php/front-end/class-frontend.php(311): Code_Snippets\Frontend->evaluate_shortcode_content(Object(Code_Snippets\Snippet), Array)
+#2 /home/customer/www/ottawali.live/public_html/wp-includes/shortcodes.php(395): Code_Snippets\Frontend->render_content_shortcode(Array, '', 'code_snippet')
+#3 [internal function]: do_shortcode_tag(Array)
+#4 /home/customer/www/ottawali.live/public_html/wp-includes/shortcodes.php(235): preg_replace_callback('/\\[(\\[?)(code_s...', 'do_shortcode_ta...', '[code_snippet i...')
+#5 /home/customer/www/ottawali.live/public_html/wp-content/plugins/elementor/includes/widgets/shortcode.php in /home/customer/www/ottawali.live/public_html/wp-content/plugins/code-snippets/php/front-end/class-frontend.php(248) : eval()'d code on line 99
+[18-Sep-2023 19:41:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/customer/www/ottawali.live/public_html/wp-content/plugins/code-snippets/php/front-end/class-frontend.php(248) : eval()'d code:93
+Stack trace:
+#0 /home/customer/www/ottawali.live/public_html/wp-content/plugins/code-snippets/php/front-end/class-frontend.php(248): eval()
+#1 /home/customer/www/ottawali.live/public_html/wp-content/plugins/code-snippets/php/front-end/class-frontend.php(311): Code_Snippets\Frontend->evaluate_shortcode_content(Object(Code_Snippets\Snippet), Array)
+#2 /home/customer/www/ottawali.live/public_html/wp-includes/shortcodes.php(395): Code_Snippets\Frontend->render_content_shortcode(Array, '', 'code_snippet')
+#3 [internal function]: do_shortcode_tag(Array)
+#4 /home/customer/www/ottawali.live/public_html/wp-includes/shortcodes.php(235): preg_replace_callback('/\\[(\\[?)(code_s...', 'do_shortcode_ta...', '[code_snippet i...')
+#5 /home/customer/www/ottawali.live/public_html/wp-content/plugins/elementor/includes/widgets/shortcode.php in /home/customer/www/ottawali.live/public_html/wp-content/plugins/code-snippets/php/front-end/class-frontend.php(248) : eval()'d code on line 93
+[18-Sep-2023 19:44:26 UTC] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/customer/www/ottawali.live/public_html/wp-content/plugins/code-snippets/php/front-end/class-frontend.php(248) : eval()'d code on line 84
+[18-Sep-2023 19:44:30 UTC] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/customer/www/ottawali.live/public_html/wp-content/plugins/code-snippets/php/front-end/class-frontend.php(248) : eval()'d code on line 84
+[18-Sep-2023 19:45:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/customer/www/ottawali.live/public_html/wp-content/plugins/code-snippets/php/front-end/class-frontend.php(248) : eval()'d code:90
+Stack trace:
+#0 /home/customer/www/ottawali.live/public_html/wp-content/plugins/code-snippets/php/front-end/class-frontend.php(248): eval()
+#1 /home/customer/www/ottawali.live/public_html/wp-content/plugins/code-snippets/php/front-end/class-frontend.php(311): Code_Snippets\Frontend->evaluate_shortcode_content(Object(Code_Snippets\Snippet), Array)
+#2 /home/customer/www/ottawali.live/public_html/wp-includes/shortcodes.php(395): Code_Snippets\Frontend->render_content_shortcode(Array, '', 'code_snippet')
+#3 [internal function]: do_shortcode_tag(Array)
+#4 /home/customer/www/ottawali.live/public_html/wp-includes/shortcodes.php(235): preg_replace_callback('/\\[(\\[?)(code_s...', 'do_shortcode_ta...', '[code_snippet i...')
+#5 /home/customer/www/ottawali.live/public_html/wp-content/plugins/elementor/includes/widgets/shortcode.php in /home/customer/www/ottawali.live/public_html/wp-content/plugins/code-snippets/php/front-end/class-frontend.php(248) : eval()'d code on line 90
+[18-Sep-2023 19:45:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/customer/www/ottawali.live/public_html/wp-content/plugins/code-snippets/php/front-end/class-frontend.php(248) : eval()'d code:90
+Stack trace:
+#0 /home/customer/www/ottawali.live/public_html/wp-content/plugins/code-snippets/php/front-end/class-frontend.php(248): eval()
+#1 /home/customer/www/ottawali.live/public_html/wp-content/plugins/code-snippets/php/front-end/class-frontend.php(311): Code_Snippets\Frontend->evaluate_shortcode_content(Object(Code_Snippets\Snippet), Array)
+#2 /home/customer/www/ottawali.live/public_html/wp-includes/shortcodes.php(395): Code_Snippets\Frontend->render_content_shortcode(Array, '', 'code_snippet')
+#3 [internal function]: do_shortcode_tag(Array)
+#4 /home/customer/www/ottawali.live/public_html/wp-includes/shortcodes.php(235): preg_replace_callback('/\\[(\\[?)(code_s...', 'do_shortcode_ta...', '[code_snippet i...')
+#5 /home/customer/www/ottawali.live/public_html/wp-content/plugins/elementor/includes/widgets/shortcode.php in /home/customer/www/ottawali.live/public_html/wp-content/plugins/code-snippets/php/front-end/class-frontend.php(248) : eval()'d code on line 90
+[18-Sep-2023 19:45:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/customer/www/ottawali.live/public_html/wp-content/plugins/code-snippets/php/front-end/class-frontend.php(248) : eval()'d code:90
+Stack trace:
+#0 /home/customer/www/ottawali.live/public_html/wp-content/plugins/code-snippets/php/front-end/class-frontend.php(248): eval()
+#1 /home/customer/www/ottawali.live/public_html/wp-content/plugins/code-snippets/php/front-end/class-frontend.php(311): Code_Snippets\Frontend->evaluate_shortcode_content(Object(Code_Snippets\Snippet), Array)
+#2 /home/customer/www/ottawali.live/public_html/wp-includes/shortcodes.php(395): Code_Snippets\Frontend->render_content_shortcode(Array, '', 'code_snippet')
+#3 [internal function]: do_shortcode_tag(Array)
+#4 /home/customer/www/ottawali.live/public_html/wp-includes/shortcodes.php(235): preg_replace_callback('/\\[(\\[?)(code_s...', 'do_shortcode_ta...', '[code_snippet i...')
+#5 /home/customer/www/ottawali.live/public_html/wp-content/plugins/elementor/includes/widgets/shortcode.php in /home/customer/www/ottawali.live/public_html/wp-content/plugins/code-snippets/php/front-end/class-frontend.php(248) : eval()'d code on line 90
+[18-Sep-2023 20:03:40 UTC] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/customer/www/ottawali.live/public_html/wp-content/plugins/code-snippets/php/front-end/class-frontend.php(248) : eval()'d code on line 84
+[18-Sep-2023 20:03:45 UTC] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/customer/www/ottawali.live/public_html/wp-content/plugins/code-snippets/php/front-end/class-frontend.php(248) : eval()'d code on line 84
+[18-Sep-2023 20:03:51 UTC] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/customer/www/ottawali.live/public_html/wp-content/plugins/code-snippets/php/front-end/class-frontend.php(248) : eval()'d code on line 84
+[18-Sep-2023 20:03:53 UTC] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/customer/www/ottawali.live/public_html/wp-content/plugins/code-snippets/php/front-end/class-frontend.php(248) : eval()'d code on line 84
+[18-Sep-2023 20:13:22 UTC] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/customer/www/ottawali.live/public_html/wp-content/plugins/code-snippets/php/front-end/class-frontend.php(248) : eval()'d code on line 82
+[18-Sep-2023 20:13:26 UTC] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/customer/www/ottawali.live/public_html/wp-content/plugins/code-snippets/php/front-end/class-frontend.php(248) : eval()'d code on line 82
+[18-Sep-2023 20:13:32 UTC] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/customer/www/ottawali.live/public_html/wp-content/plugins/code-snippets/php/front-end/class-frontend.php(248) : eval()'d code on line 82
+[18-Sep-2023 20:16:23 UTC] PHP Fatal error:  Uncaught Error: Undefined class constant 'PARAM_XXXX' in /home/customer/www/ottawali.live/public_html/wp-content/plugins/code-snippets/php/front-end/class-frontend.php(248) : eval()'d code:53
+Stack trace:
+#0 /home/customer/www/ottawali.live/public_html/wp-content/plugins/code-snippets/php/front-end/class-frontend.php(248): eval()
+#1 /home/customer/www/ottawali.live/public_html/wp-content/plugins/code-snippets/php/front-end/class-frontend.php(311): Code_Snippets\Frontend->evaluate_shortcode_content(Object(Code_Snippets\Snippet), Array)
+#2 /home/customer/www/ottawali.live/public_html/wp-includes/shortcodes.php(395): Code_Snippets\Frontend->render_content_shortcode(Array, '', 'code_snippet')
+#3 [internal function]: do_shortcode_tag(Array)
+#4 /home/customer/www/ottawali.live/public_html/wp-includes/shortcodes.php(235): preg_replace_callback('/\\[(\\[?)(code_s...', 'do_shortcode_ta...', '[code_snippet i...')
+#5 /home/customer/www/ottawali.live/public_html/wp-content/plugins/elementor/includes/widgets/shortcode.php in /home/customer/www/ottawali.live/public_html/wp-content/plugins/code-snippets/php/front-end/class-frontend.php(248) : eval()'d code on line 53
+[18-Sep-2023 20:19:03 UTC] PHP Fatal error:  Uncaught Error: Undefined class constant 'PARAM_XXXX' in /home/customer/www/ottawali.live/public_html/wp-content/plugins/code-snippets/php/front-end/class-frontend.php(248) : eval()'d code:51
+Stack trace:
+#0 /home/customer/www/ottawali.live/public_html/wp-content/plugins/code-snippets/php/front-end/class-frontend.php(248): eval()
+#1 /home/customer/www/ottawali.live/public_html/wp-content/plugins/code-snippets/php/front-end/class-frontend.php(311): Code_Snippets\Frontend->evaluate_shortcode_content(Object(Code_Snippets\Snippet), Array)
+#2 /home/customer/www/ottawali.live/public_html/wp-includes/shortcodes.php(395): Code_Snippets\Frontend->render_content_shortcode(Array, '', 'code_snippet')
+#3 [internal function]: do_shortcode_tag(Array)
+#4 /home/customer/www/ottawali.live/public_html/wp-includes/shortcodes.php(235): preg_replace_callback('/\\[(\\[?)(code_s...', 'do_shortcode_ta...', '[code_snippet i...')
+#5 /home/customer/www/ottawali.live/public_html/wp-content/plugins/elementor/includes/widgets/shortcode.php in /home/customer/www/ottawali.live/public_html/wp-content/plugins/code-snippets/php/front-end/class-frontend.php(248) : eval()'d code on line 51
+[18-Sep-2023 20:19:09 UTC] PHP Fatal error:  Uncaught Error: Undefined class constant 'PARAM_XXXX' in /home/customer/www/ottawali.live/public_html/wp-content/plugins/code-snippets/php/front-end/class-frontend.php(248) : eval()'d code:51
+Stack trace:
+#0 /home/customer/www/ottawali.live/public_html/wp-content/plugins/code-snippets/php/front-end/class-frontend.php(248): eval()
+#1 /home/customer/www/ottawali.live/public_html/wp-content/plugins/code-snippets/php/front-end/class-frontend.php(311): Code_Snippets\Frontend->evaluate_shortcode_content(Object(Code_Snippets\Snippet), Array)
+#2 /home/customer/www/ottawali.live/public_html/wp-includes/shortcodes.php(395): Code_Snippets\Frontend->render_content_shortcode(Array, '', 'code_snippet')
+#3 [internal function]: do_shortcode_tag(Array)
+#4 /home/customer/www/ottawali.live/public_html/wp-includes/shortcodes.php(235): preg_replace_callback('/\\[(\\[?)(code_s...', 'do_shortcode_ta...', '[code_snippet i...')
+#5 /home/customer/www/ottawali.live/public_html/wp-content/plugins/elementor/includes/widgets/shortcode.php in /home/customer/www/ottawali.live/public_html/wp-content/plugins/code-snippets/php/front-end/class-frontend.php(248) : eval()'d code on line 51
+[18-Sep-2023 20:33:17 UTC] PHP Fatal error:  Uncaught Error: Undefined class constant 'PARAM_XXXX' in /home/customer/www/ottawali.live/public_html/wp-content/plugins/code-snippets/php/front-end/class-frontend.php(248) : eval()'d code:52
+Stack trace:
+#0 /home/customer/www/ottawali.live/public_html/wp-content/plugins/code-snippets/php/front-end/class-frontend.php(248): eval()
+#1 /home/customer/www/ottawali.live/public_html/wp-content/plugins/code-snippets/php/front-end/class-frontend.php(311): Code_Snippets\Frontend->evaluate_shortcode_content(Object(Code_Snippets\Snippet), Array)
+#2 /home/customer/www/ottawali.live/public_html/wp-includes/shortcodes.php(395): Code_Snippets\Frontend->render_content_shortcode(Array, '', 'code_snippet')
+#3 [internal function]: do_shortcode_tag(Array)
+#4 /home/customer/www/ottawali.live/public_html/wp-includes/shortcodes.php(235): preg_replace_callback('/\\[(\\[?)(code_s...', 'do_shortcode_ta...', '[code_snippet i...')
+#5 /home/customer/www/ottawali.live/public_html/wp-content/plugins/elementor/includes/widgets/shortcode.php in /home/customer/www/ottawali.live/public_html/wp-content/plugins/code-snippets/php/front-end/class-frontend.php(248) : eval()'d code on line 52
+[18-Sep-2023 20:33:42 UTC] PHP Fatal error:  Uncaught Error: Undefined class constant 'PARAM_XXXX' in /home/customer/www/ottawali.live/public_html/wp-content/plugins/code-snippets/php/front-end/class-frontend.php(248) : eval()'d code:52
+Stack trace:
+#0 /home/customer/www/ottawali.live/public_html/wp-content/plugins/code-snippets/php/front-end/class-frontend.php(248): eval()
+#1 /home/customer/www/ottawali.live/public_html/wp-content/plugins/code-snippets/php/front-end/class-frontend.php(311): Code_Snippets\Frontend->evaluate_shortcode_content(Object(Code_Snippets\Snippet), Array)
+#2 /home/customer/www/ottawali.live/public_html/wp-includes/shortcodes.php(395): Code_Snippets\Frontend->render_content_shortcode(Array, '', 'code_snippet')
+#3 [internal function]: do_shortcode_tag(Array)
+#4 /home/customer/www/ottawali.live/public_html/wp-includes/shortcodes.php(235): preg_replace_callback('/\\[(\\[?)(code_s...', 'do_shortcode_ta...', '[code_snippet i...')
+#5 /home/customer/www/ottawali.live/public_html/wp-content/plugins/elementor/includes/widgets/shortcode.php in /home/customer/www/ottawali.live/public_html/wp-content/plugins/code-snippets/php/front-end/class-frontend.php(248) : eval()'d code on line 52
+[18-Sep-2023 20:33:51 UTC] PHP Fatal error:  Uncaught Error: Undefined class constant 'PARAM_XXXX' in /home/customer/www/ottawali.live/public_html/wp-content/plugins/code-snippets/php/front-end/class-frontend.php(248) : eval()'d code:52
+Stack trace:
+#0 /home/customer/www/ottawali.live/public_html/wp-content/plugins/code-snippets/php/front-end/class-frontend.php(248): eval()
+#1 /home/customer/www/ottawali.live/public_html/wp-content/plugins/code-snippets/php/front-end/class-frontend.php(311): Code_Snippets\Frontend->evaluate_shortcode_content(Object(Code_Snippets\Snippet), Array)
+#2 /home/customer/www/ottawali.live/public_html/wp-includes/shortcodes.php(395): Code_Snippets\Frontend->render_content_shortcode(Array, '', 'code_snippet')
+#3 [internal function]: do_shortcode_tag(Array)
+#4 /home/customer/www/ottawali.live/public_html/wp-includes/shortcodes.php(235): preg_replace_callback('/\\[(\\[?)(code_s...', 'do_shortcode_ta...', '[code_snippet i...')
+#5 /home/customer/www/ottawali.live/public_html/wp-content/plugins/elementor/includes/widgets/shortcode.php in /home/customer/www/ottawali.live/public_html/wp-content/plugins/code-snippets/php/front-end/class-frontend.php(248) : eval()'d code on line 52
+[18-Sep-2023 22:21:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/customer/www/ottawali.live/public_html/wp-content/plugins/code-snippets/php/front-end/class-frontend.php(248) : eval()'d code:72
+Stack trace:
+#0 /home/customer/www/ottawali.live/public_html/wp-content/plugins/code-snippets/php/front-end/class-frontend.php(248): eval()
+#1 /home/customer/www/ottawali.live/public_html/wp-content/plugins/code-snippets/php/front-end/class-frontend.php(311): Code_Snippets\Frontend->evaluate_shortcode_content(Object(Code_Snippets\Snippet), Array)
+#2 /home/customer/www/ottawali.live/public_html/wp-includes/shortcodes.php(395): Code_Snippets\Frontend->render_content_shortcode(Array, '', 'code_snippet')
+#3 [internal function]: do_shortcode_tag(Array)
+#4 /home/customer/www/ottawali.live/public_html/wp-includes/shortcodes.php(235): preg_replace_callback('/\\[(\\[?)(code_s...', 'do_shortcode_ta...', '[code_snippet i...')
+#5 /home/customer/www/ottawali.live/public_html/wp-content/plugins/elementor/includes/widgets/sho in /home/customer/www/ottawali.live/public_html/wp-content/plugins/code-snippets/php/front-end/class-frontend.php(248) : eval()'d code on line 72
+[19-Sep-2023 01:37:11 UTC] 数据库操作异常：SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':入仓号' at line 1
+[19-Sep-2023 01:37:30 UTC] 数据库操作异常：SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':入仓号' at line 1
+[19-Sep-2023 01:42:20 UTC] 数据库操作异常：SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':入仓号' at line 1
+[19-Sep-2023 01:42:29 UTC] 数据库操作异常：SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':入仓号' at line 1
+[19-Sep-2023 01:42:57 UTC] 数据库操作异常：SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':入仓号' at line 1
+[19-Sep-2023 01:43:06 UTC] 数据库操作异常：SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':入仓号' at line 1
+[19-Sep-2023 01:43:21 UTC] 数据库操作异常：SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':入仓号' at line 1
+[19-Sep-2023 01:50:32 UTC] 数据库操作异常：SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':入仓号' at line 1
+[19-Sep-2023 01:50:46 UTC] 数据库操作异常：SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':入仓号' at line 1
+[19-Sep-2023 01:56:01 UTC] 数据库操作异常：SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':入仓号' at line 1
+[19-Sep-2023 02:01:54 UTC] 数据库操作异常：SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':入仓号' at line 1
+[19-Sep-2023 02:23:00 UTC] 数据库操作异常：SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':入仓号' at line 1
+[19-Sep-2023 02:24:01 UTC] 数据库操作异常：SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':入仓号' at line 1
+[19-Sep-2023 02:30:19 UTC] 数据库操作异常：SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':入仓号' at line 1
+[19-Sep-2023 02:30:25 UTC] 数据库操作异常：SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':入仓号' at line 1
+[19-Sep-2023 02:33:28 UTC] 数据库操作异常：SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':入仓号' at line 1
+[19-Sep-2023 02:33:34 UTC] 数据库操作异常：SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':入仓号' at line 1
+[19-Sep-2023 02:33:38 UTC] 数据库操作异常：SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':入仓号' at line 1
+[19-Sep-2023 02:43:52 UTC] Snippet(in-warehouse-operation) database operation exception
+[19-Sep-2023 02:43:59 UTC] Snippet(in-warehouse-operation) database operation exception
+[19-Sep-2023 02:44:31 UTC] Snippet(in-warehouse-operation) database operation exception
+[19-Sep-2023 02:44:46 UTC] Snippet(in-warehouse-operation) database operation exception
+[19-Sep-2023 02:44:49 UTC] Snippet(in-warehouse-operation) database operation exception
+[19-Sep-2023 02:44:52 UTC] Snippet(in-warehouse-operation) database operation exception
+[19-Sep-2023 02:46:19 UTC] Snippet(in-warehouse-operation) database operation exception
+[19-Sep-2023 02:46:21 UTC] Snippet(in-warehouse-operation) database operation exception
+[19-Sep-2023 03:04:53 UTC] Snippet(in-warehouse-operation) database operation exception
+[19-Sep-2023 03:05:25 UTC] Snippet(in-warehouse-operation) database operation exception
+[19-Sep-2023 03:07:00 UTC] Snippet(in-warehouse-operation) database operation exception
+[19-Sep-2023 03:25:54 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ';' or ',' in /home/customer/www/ottawali.live/public_html/wp-content/plugins/code-snippets/php/front-end/class-frontend.php(248) : eval()'d code on line 5
+[19-Sep-2023 03:26:01 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ';' or ',' in /home/customer/www/ottawali.live/public_html/wp-content/plugins/code-snippets/php/front-end/class-frontend.php(248) : eval()'d code on line 5
+[19-Sep-2023 03:34:47 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ';' or ',' in /home/customer/www/ottawali.live/public_html/wp-content/plugins/code-snippets/php/front-end/class-frontend.php(248) : eval()'d code on line 32
+[19-Sep-2023 14:33:12 UTC] PHP Parse error:  syntax error, unexpected '批次号' (T_STRING), expecting ';' or ',' in /home/customer/www/ottawali.live/public_html/wp-content/plugins/code-snippets/php/front-end/class-frontend.php(248) : eval()'d code on line 24
+[19-Sep-2023 14:34:48 UTC] PHP Parse error:  syntax error, unexpected '批次号' (T_STRING), expecting ';' or ',' in /home/customer/www/ottawali.live/public_html/wp-content/plugins/code-snippets/php/front-end/class-frontend.php(248) : eval()'d code on line 24
+[19-Sep-2023 14:34:55 UTC] PHP Parse error:  syntax error, unexpected '批次号' (T_STRING), expecting ';' or ',' in /home/customer/www/ottawali.live/public_html/wp-content/plugins/code-snippets/php/front-end/class-frontend.php(248) : eval()'d code on line 24
+[19-Sep-2023 19:57:19 UTC] Snippet(in-warehouse-operation):包裹(ONO2CXRNX0312304)的总金额(0.00)有误,已变更为(5.99)
+[19-Sep-2023 19:57:19 UTC] Snippet(in-warehouse-operation) database operation exception
+[19-Sep-2023 20:00:15 UTC] Snippet(in-warehouse-operation):包裹(ONO2EENPX0382304)的总金额(0.00)有误,已变更为(5.99)
+[19-Sep-2023 20:00:15 UTC] Snippet(in-warehouse-operation) database operation exception
+[19-Sep-2023 20:02:39 UTC] PHP Parse error:  syntax error, unexpected '$insertStmt' (T_VARIABLE) in /home/customer/www/ottawali.live/public_html/wp-content/plugins/code-snippets/php/front-end/class-frontend.php(248) : eval()'d code on line 130
+[19-Sep-2023 20:03:07 UTC] Snippet(in-warehouse-operation):包裹(ONO2HEEEP0302304)的总金额(0.00)有误,已变更为(5.99)
+[19-Sep-2023 20:03:07 UTC] Snippet(in-warehouse-operation) database operation exception
+[19-Sep-2023 20:06:20 UTC] Snippet(in-warehouse-operation):包裹(ONO2HEEEP0302304)的总金额(0.00)有误,已变更为(5.99)
+[19-Sep-2023 20:06:20 UTC] Snippet(in-warehouse-operation) database operation exception
+[19-Sep-2023 20:06:32 UTC] Snippet(in-warehouse-operation):包裹(ONO2QUNUC0022304)的总金额(0.00)有误,已变更为(11.98)
+[19-Sep-2023 20:06:32 UTC] Snippet(in-warehouse-operation) database operation exception
+[19-Sep-2023 20:10:13 UTC] Snippet(in-warehouse-operation):包裹(ONO2KNAUR0922304)的总金额(41.93)有误,已变更为(41.93)
+[19-Sep-2023 20:10:13 UTC] Snippet(in-warehouse-operation) database operation exception
+[19-Sep-2023 20:29:42 UTC] Snippet(in-warehouse-operation):包裹(ONO2HHRQF0142303)的总金额(41.93)有误,已变更为(41.93)
+[19-Sep-2023 20:29:42 UTC] Snippet(in-warehouse-operation) database operation exception
+[19-Sep-2023 20:32:41 UTC] Snippet(in-warehouse-operation):包裹(ONO2HHRQF0142303)的总金额(41.93)有误,已变更为(41.93)
+[19-Sep-2023 20:32:41 UTC] Snippet(in-warehouse-operation) database operation exception
+[19-Sep-2023 20:32:48 UTC] Snippet(in-warehouse-operation):包裹(ONO2KNAUR0982304)的总金额(119.80)有误,已变更为(119.80)
+[19-Sep-2023 20:32:48 UTC] Snippet(in-warehouse-operation) database operation exception
+[19-Sep-2023 20:37:39 UTC] Snippet(in-warehouse-operation) database operation exception
+[19-Sep-2023 23:31:35 UTC] Snippet(in-warehouse-operation) database operation exception
+[19-Sep-2023 23:37:45 UTC] Snippet(in-warehouse-operation) database operation exception
+[19-Sep-2023 23:39:10 UTC] Snippet(in-warehouse-operation) database operation exception
+[20-Sep-2023 17:09:45 UTC] PHP Parse error:  syntax error, unexpected 'try' (T_TRY), expecting ';' or ',' in /home/customer/www/ottawali.live/public_html/wp-content/plugins/code-snippets/php/front-end/class-frontend.php(248) : eval()'d code on line 20
+[20-Sep-2023 17:10:40 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ';' or ',' in /home/customer/www/ottawali.live/public_html/wp-content/plugins/code-snippets/php/front-end/class-frontend.php(248) : eval()'d code on line 80
+[20-Sep-2023 17:11:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getERcustomerId() in /home/customer/www/ottawali.live/public_html/wp-content/plugins/code-snippets/php/front-end/class-frontend.php(248) : eval()'d code:23
+Stack trace:
+#0 /home/customer/www/ottawali.live/public_html/wp-content/plugins/code-snippets/php/front-end/class-frontend.php(248): eval()
+#1 /home/customer/www/ottawali.live/public_html/wp-content/plugins/code-snippets/php/front-end/class-frontend.php(311): Code_Snippets\Frontend->evaluate_shortcode_content(Object(Code_Snippets\Snippet), Array)
+#2 /home/customer/www/ottawali.live/public_html/wp-includes/shortcodes.php(395): Code_Snippets\Frontend->render_content_shortcode(Array, '', 'code_snippet')
+#3 [internal function]: do_shortcode_tag(Array)
+#4 /home/customer/www/ottawali.live/public_html/wp-includes/shortcodes.php(235): preg_replace_callback('/\\[(\\[?)(code_s...', 'do_shortcode_ta...', '[code_snippet i...')
+#5 /home/customer/www/ottawali.live/public_html/wp-content/plugins/elementor/includes/widgets/shortc in /home/customer/www/ottawali.live/public_html/wp-content/plugins/code-snippets/php/front-end/class-frontend.php(248) : eval()'d code on line 23
+[20-Sep-2023 20:05:33 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/customer/www/ottawali.live/public_html/wp-content/plugins/code-snippets/php/front-end/class-frontend.php(248) : eval()'d code on line 61
+[20-Sep-2023 20:07:15 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/customer/www/ottawali.live/public_html/wp-content/plugins/code-snippets/php/front-end/class-frontend.php(248) : eval()'d code on line 54
+[20-Sep-2023 20:07:20 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/customer/www/ottawali.live/public_html/wp-content/plugins/code-snippets/php/front-end/class-frontend.php(248) : eval()'d code on line 54
+[20-Sep-2023 20:11:09 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/customer/www/ottawali.live/public_html/wp-content/plugins/code-snippets/php/front-end/class-frontend.php(248) : eval()'d code on line 20
+[20-Sep-2023 22:23:37 UTC] PHP Parse error:  syntax error, unexpected '共计' (T_STRING), expecting ';' or ',' in /home/customer/www/ottawali.live/public_html/wp-content/plugins/code-snippets/php/front-end/class-frontend.php(248) : eval()'d code on line 50
+[20-Sep-2023 23:19:14 UTC] database operation exception
+[20-Sep-2023 23:19:18 UTC] database operation exception
+[04-Oct-2023 13:44:16 UTC] Snippet(in-warehouse-operation):包裹(ABC2SALLY351A2307)的总金额(29.95)有误,已变更为(29.95)
+[04-Oct-2023 13:44:35 UTC] Snippet(in-warehouse-operation):包裹(ABC2SALLY352A2307)的总金额(29.95)有误,已变更为(29.95)
+[04-Oct-2023 14:09:59 UTC] Snippet(in-warehouse-operation):包裹(ONO2TBUXB1252307)的总金额(29.95)有误,已变更为(29.95)
+[04-Oct-2023 14:18:55 UTC] Snippet(in-warehouse-operation):包裹(ONO2FUTNN0752307)的总金额(29.95)有误,已变更为(29.95)
+[04-Oct-2023 14:42:45 UTC] Snippet(in-warehouse-operation):包裹(ONO2XTYFQ0082307)的总金额(59.90)有误,已变更为(59.90)
+[04-Oct-2023 14:43:08 UTC] Snippet(in-warehouse-operation):包裹(ONO2XTYFQ0092307)的总金额(119.80)有误,已变更为(119.80)
+[04-Oct-2023 14:44:05 UTC] Snippet(in-warehouse-operation):包裹(ONO2XTYFQ0142307)的总金额(119.80)有误,已变更为(119.80)
+[04-Oct-2023 14:44:25 UTC] Snippet(in-warehouse-operation):包裹(ONO2XTYFQ0102307)的总金额(119.80)有误,已变更为(119.80)
+[04-Oct-2023 14:58:31 UTC] Snippet(in-warehouse-operation):包裹(ONO2SCXET0012307)的总金额(6.00)有误,已变更为(8.99)
+[04-Oct-2023 19:24:12 UTC] database operation exception
+[04-Oct-2023 19:24:15 UTC] database operation exception
+[04-Oct-2023 19:25:43 UTC] database operation exception
+[04-Oct-2023 19:26:37 UTC] database operation exception
+[04-Oct-2023 19:28:01 UTC] database operation exception
+[04-Oct-2023 19:31:43 UTC] database operation exception
+[04-Oct-2023 19:32:15 UTC] database operation exception
+[04-Oct-2023 19:32:28 UTC] database operation exception
+[04-Oct-2023 19:35:17 UTC] database operation exception
+[04-Oct-2023 19:37:19 UTC] database operation exception
+[04-Oct-2023 19:38:18 UTC] Snippet(in-warehouse-operation):包裹(ABC2SALLY351A2307)的总金额(29.95)有误,已变更为(29.95)
+[04-Oct-2023 19:38:18 UTC] Snippet(in-warehouse-operation):包裹(ABC2SALLY352A2307)的总金额(29.95)有误,已变更为(29.95)
+[04-Oct-2023 19:38:18 UTC] Snippet(in-warehouse-operation):包裹(ABC2XXXXX6282306)的总金额(101.83)有误,已变更为(101.83)
+[04-Oct-2023 19:38:18 UTC] Snippet(in-warehouse-operation):包裹(ABC2XXXXX6322306)的总金额(119.80)有误,已变更为(119.80)
+[04-Oct-2023 19:38:18 UTC] Snippet(in-warehouse-operation):包裹(ONO2CUFPQ0252307)的总金额(29.95)有误,已变更为(29.95)
+[04-Oct-2023 19:38:18 UTC] Snippet(in-warehouse-operation):包裹(ONO2CXRNX0562307)的总金额(59.90)有误,已变更为(59.90)
+[04-Oct-2023 19:38:18 UTC] Snippet(in-warehouse-operation):包裹(ONO2CXRNX0612307)的总金额(29.95)有误,已变更为(29.95)
+[04-Oct-2023 19:38:18 UTC] Snippet(in-warehouse-operation):包裹(ONO2FUTNN0752307)的总金额(29.95)有误,已变更为(29.95)
+[04-Oct-2023 19:38:18 UTC] Snippet(in-warehouse-operation):包裹(ONO2KRWRZ0282307)的总金额(29.95)有误,已变更为(29.95)
+[04-Oct-2023 19:38:18 UTC] Snippet(in-warehouse-operation):包裹(ONO2SCXET0012307)的总金额(6.00)有误,已变更为(8.99)
+[04-Oct-2023 19:38:18 UTC] Snippet(in-warehouse-operation):包裹(ONO2TBUXB1252307)的总金额(29.95)有误,已变更为(29.95)
+[04-Oct-2023 19:38:18 UTC] Snippet(in-warehouse-operation):包裹(ONO2XTYFQ0082307)的总金额(59.90)有误,已变更为(59.90)
+[04-Oct-2023 19:38:18 UTC] Snippet(in-warehouse-operation):包裹(ONO2XTYFQ0092307)的总金额(119.80)有误,已变更为(119.80)
+[04-Oct-2023 19:38:18 UTC] Snippet(in-warehouse-operation):包裹(ONO2XTYFQ0102307)的总金额(119.80)有误,已变更为(119.80)
+[04-Oct-2023 19:38:18 UTC] Snippet(in-warehouse-operation):包裹(ONO2XTYFQ0142307)的总金额(119.80)有误,已变更为(119.80)
+[04-Oct-2023 19:38:18 UTC] Snippet(in-warehouse-operation):包裹(ONO2YSFAP0662307)的总金额(59.90)有误,已变更为(59.90)
+[04-Oct-2023 19:38:18 UTC] Snippet(in-warehouse-operation):包裹(ONO2YTPSB0192307)的总金额(41.93)有误,已变更为(41.93)
+[04-Oct-2023 22:55:53 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting '(' in /home/customer/www/ottawali.live/public_html/wp-content/plugins/code-snippets/php/front-end/class-frontend.php(248) : eval()'d code on line 64
+[05-Oct-2023 00:01:24 UTC] PHP Parse error:  syntax error, unexpected '"', expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/customer/www/ottawali.live/public_html/wp-content/plugins/code-snippets/php/front-end/class-frontend.php(248) : eval()'d code on line 116
+[05-Oct-2023 00:16:28 UTC] Snippet(in-warehouse-operation) database operation exception
+[05-Oct-2023 00:16:39 UTC] Snippet(in-warehouse-operation) database operation exception
+[05-Oct-2023 00:21:20 UTC] Snippet(in-warehouse-operation) database operation exception
+[05-Oct-2023 00:52:26 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ';' or ',' in /home/customer/www/ottawali.live/public_html/wp-content/plugins/code-snippets/php/front-end/class-frontend.php(248) : eval()'d code on line 291
+[05-Oct-2023 00:53:05 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ';' or ',' in /home/customer/www/ottawali.live/public_html/wp-content/plugins/code-snippets/php/front-end/class-frontend.php(248) : eval()'d code on line 291
+[05-Oct-2023 01:38:26 UTC] Snippet(in-warehouse-operation) database operation exception
+[05-Oct-2023 01:39:35 UTC] Snippet(in-warehouse-operation) database operation exception
+[17-Oct-2023 19:59:14 UTC] Snippet(in-warehouse-operation):包裹(ONO2EUBZN0142307)的总金额(29.95)有误,已变更为(29.95)
+[17-Oct-2023 19:59:37 UTC] Snippet(in-warehouse-operation):包裹(ONO2HEEEP0362308)的总金额(101.83)有误,已变更为(101.83)
+[17-Oct-2023 20:19:30 UTC] Snippet(in-warehouse-operation):包裹(ONO2XRXSK0092308)的总金额(6.00)有误,已变更为(8.99)
+[18-Oct-2023 02:38:06 UTC] Snippet(in-warehouse-operation):包裹(ONO2CUFPQ0292307)的总金额(29.95)有误,已变更为(29.95)
+[18-Oct-2023 02:38:06 UTC] Snippet(in-warehouse-operation):包裹(ONO2CUFPQ0322308)的总金额(29.95)有误,已变更为(29.95)
+[18-Oct-2023 13:50:08 UTC] Snippet(in-warehouse-operation):包裹(ONO2XWWYY0062307)的总金额(29.95)有误,已变更为(29.95)
+[18-Oct-2023 14:10:13 UTC] Snippet(in-warehouse-operation):包裹(ONO2PNHQY0032308)的总金额(167.72)有误,已变更为(167.72)
+[18-Oct-2023 14:28:44 UTC] Snippet(in-warehouse-operation):包裹(ONO2NAKWB0232308)的总金额(29.95)有误,已变更为(29.95)
+[18-Oct-2023 14:31:10 UTC] Snippet(in-warehouse-operation):包裹(ONO2SQHYC0552308)的总金额(41.93)有误,已变更为(41.93)
+[18-Oct-2023 14:40:52 UTC] Snippet(in-warehouse-operation):包裹(ONO2RXBUN0642308)的总金额(29.95)有误,已变更为(29.95)
+[18-Oct-2023 17:00:18 UTC] Snippet(in-warehouse-operation):包裹(ONO2USYSW0312308)的总金额(29.95)有误,已变更为(29.95)
+[18-Oct-2023 17:48:44 UTC] Snippet(in-warehouse-operation):包裹(ONO2TYFZT0192308)的总金额(41.93)有误,已变更为(41.93)
+[18-Oct-2023 17:48:44 UTC] Snippet(in-warehouse-operation):包裹(ONO2TYFZT0212308)的总金额(41.93)有误,已变更为(41.93)
+[18-Oct-2023 17:49:18 UTC] Snippet(in-warehouse-operation):包裹(ONO2WUUWH0262308)的总金额(29.95)有误,已变更为(29.95)
+[18-Oct-2023 17:49:18 UTC] Snippet(in-warehouse-operation):包裹(ONO2WUUWH0272308)的总金额(41.93)有误,已变更为(41.93)
+[18-Oct-2023 18:24:29 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/customer/www/ottawali.live/public_html/wp-content/plugins/code-snippets/php/front-end/class-frontend.php(248) : eval()'d code on line 242
+[18-Oct-2023 18:59:04 UTC] PHP Parse error:  syntax error, unexpected 'overflow' (T_STRING), expecting ';' or ',' in /home/customer/www/ottawali.live/public_html/wp-content/plugins/code-snippets/php/front-end/class-frontend.php(248) : eval()'d code on line 31
+[19-Oct-2023 13:49:17 UTC] Snippet(in-warehouse-operation) database operation exception
+[19-Oct-2023 13:53:27 UTC] Snippet(notify-operation) database operation exception
+[19-Oct-2023 13:55:08 UTC] Snippet(notify-operation) database operation exception
+[19-Oct-2023 15:02:58 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/customer/www/ottawali.live/public_html/wp-content/plugins/code-snippets/php/front-end/class-frontend.php(248) : eval()'d code on line 209
+[19-Oct-2023 15:28:19 UTC] PHP Fatal error:  Cannot redeclare displayData() (previously declared in /home/customer/www/ottawali.live/public_html/wp-content/plugins/code-snippets/php/front-end/class-frontend.php(248) : eval()'d code:27) in /home/customer/www/ottawali.live/public_html/wp-content/plugins/code-snippets/php/front-end/class-frontend.php(248) : eval()'d code on line 6
+[19-Oct-2023 16:07:28 UTC] PHP Fatal error:  Cannot redeclare displayData() (previously declared in /home/customer/www/ottawali.live/public_html/wp-content/plugins/code-snippets/php/front-end/class-frontend.php(248) : eval()'d code:6) in /home/customer/www/ottawali.live/public_html/wp-content/plugins/code-snippets/php/front-end/class-frontend.php(248) : eval()'d code on line 6
+[19-Oct-2023 16:35:32 UTC] Snippet(in-warehouse-operation):包裹(ONO2ZNZQK0062307)的总金额(29.95)有误,已变更为(29.95)
